@@ -18,7 +18,7 @@ Review repo for submission to Udacity
 8.  catalog user in PostgreSQL created
 9.  git installed
 10.  Catalog project reprogrammed to use PostgreSQL
-11.  Various fixes for getting Catalog project working on Ubuntu.  Apache configuration file set to run application as user catalog.
+11.  Various fixes for getting Catalog project working on Ubuntu.  Apache configuration file set to run application as user named catalog.
 12.  fail2ban installed to block IP address that repeatedly fail login
 13.  cron-apt installed to automatically update packages and configured to run weekly
 14.  glances installed to monitor server activity
